@@ -1,1 +1,3 @@
-# ejercicio2
+# Nancy Muñoz
+# Viviana Castelblanco
+# Fatima Garcia
